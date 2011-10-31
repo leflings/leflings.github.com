@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://leflings.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: leflings | My Octopress Blog]]></title>
+  <link href="http://leflings.github.com/blog/categories/leflings/atom.xml" rel="self"/>
   <link href="http://leflings.github.com/"/>
   <updated>2011-10-31T23:34:00+01:00</updated>
   <id>http://leflings.github.com/</id>
@@ -23,7 +23,7 @@
 <h5>How I got started</h5>
 
 <p>Welcome to my new blog. I set this up using <a href="http://citizen428.net/">Octopress</a> after learning about
-it from <a href="http://octopress.org/">Michael Kohl&#8217;s</a> blog. It&#8217;s quite hacky :)</p>
+it from <a href="http://octopress.org/">Michael Kohl's</a> blog. It's quite hacky :)</p>
 ]]></content>
   </entry>
   
