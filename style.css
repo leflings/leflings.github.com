@@ -1,0 +1,12 @@
+body {
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 18px;
+	background-color: rgba(90, 90, 90, 1);
+	color: #fff;
+}
+#main {
+	text-shadow: 1px 1px 1px #000;
+	margin: 0 auto;
+	width: 500px;
+}
+
